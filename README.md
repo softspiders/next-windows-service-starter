@@ -1,3 +1,3 @@
-# lerna-next-rest-lib-starter
+# next-windows-service-starter
 
 UNDER DEVELOPMENT
